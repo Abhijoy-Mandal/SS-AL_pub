@@ -1,0 +1,22 @@
+ Could not solve
+
+ [UnitCell(8), UnitCell(5), UnitCell(2), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(2), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(1)],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(4), UnitCell(8), UnitCell(''), UnitCell(5), UnitCell(9), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(1), UnitCell(''), UnitCell(''), UnitCell(8), UnitCell(6), UnitCell(5), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(7), UnitCell(''), UnitCell(9), UnitCell(''), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(9), UnitCell(5), UnitCell(3), UnitCell(''), UnitCell(''), UnitCell(8), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(2), UnitCell(9), UnitCell(''), UnitCell(4), UnitCell(3), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(1), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(8)],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(8), UnitCell(''), UnitCell(6), UnitCell(4)]\
+
+
+   [UnitCell(5), UnitCell(''), UnitCell(7), UnitCell(8), UnitCell(4), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(2), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(7), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(7), UnitCell(''), UnitCell(5), UnitCell(3), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(1), UnitCell(4), UnitCell(''), UnitCell(2), UnitCell(''), UnitCell(7), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(2), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(8)],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(8), UnitCell(''), UnitCell(5), UnitCell(''), UnitCell(1), UnitCell(4), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(3), UnitCell(5), UnitCell(''), UnitCell(7), UnitCell(''), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(6), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(5), UnitCell(''), UnitCell('')],\
+                                 [UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(''), UnitCell(9), UnitCell(6), UnitCell(2), UnitCell(''), UnitCell(7)]\
